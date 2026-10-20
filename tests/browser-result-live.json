@@ -1,0 +1,142 @@
+{
+ "ocr": [
+  {
+   "truth": "炎の魔術師",
+   "ocr": "炎の魔術師",
+   "exact": true,
+   "similarity": 1,
+   "autoQuad": true,
+   "raw": "炎 の 魔術 師 /  / さい ラク / ",
+   "card": "『炎の魔術師』の書 fire c3 2/3 common drain",
+   "elementOk": true,
+   "ms": 5442
+  },
+  {
+   "truth": "深海の記憶",
+   "ocr": "深海の記憶",
+   "exact": true,
+   "similarity": 1,
+   "autoQuad": true,
+   "raw": "深海 の 記憶 /  / い 、 / ",
+   "card": "『深海の記憶』の書 water c6 3/9 common taunt",
+   "elementOk": true,
+   "ms": 3673
+  },
+  {
+   "truth": "風の旅人",
+   "ocr": "風の旅人",
+   "exact": true,
+   "similarity": 1,
+   "autoQuad": true,
+   "raw": "風 の 旅人 /  / | / ",
+   "card": "『風の旅人』の書 wind c1 1/1 common draw",
+   "elementOk": true,
+   "ms": 3608
+  },
+  {
+   "truth": "夜明けの星",
+   "ocr": "夜明けの星",
+   "exact": true,
+   "similarity": 1,
+   "autoQuad": true,
+   "raw": "夜明け の 星 / ",
+   "card": "『夜明けの星』の書 light c4 6/2 common draw",
+   "elementOk": true,
+   "ms": 8422
+  },
+  {
+   "truth": "The Dark Forest",
+   "ocr": "The Dark Forest",
+   "exact": true,
+   "similarity": 1,
+   "autoQuad": true,
+   "raw": "The Dark Forest /  / J. Rowan / ",
+   "card": "『The Dark Forest』の書 dark c6 5/7 common taunt",
+   "elementOk": true,
+   "ms": 3790
+  },
+  {
+   "truth": "山の音",
+   "ocr": "",
+   "exact": false,
+   "similarity": 0,
+   "autoQuad": true,
+   "raw": "( / ",
+   "card": "『山の音』の書 earth c8 4/9 common aoe",
+   "elementOk": true,
+   "ms": 3567
+  },
+  {
+   "truth": "炎の魔術師",
+   "ocr": "炎の魔術師",
+   "exact": true,
+   "similarity": 1,
+   "autoQuad": true,
+   "raw": "炎 の 魔術 師 /  / さい ラク / "
+  }
+ ],
+ "battles": [
+  {
+   "size": "390x844",
+   "level": 1,
+   "completed": true,
+   "playerWon": true,
+   "turns": 15,
+   "layoutProblems": []
+  },
+  {
+   "size": "390x844",
+   "level": 2,
+   "completed": true,
+   "playerWon": true,
+   "turns": 15,
+   "layoutProblems": []
+  },
+  {
+   "size": "390x844",
+   "level": 3,
+   "completed": true,
+   "playerWon": true,
+   "turns": 13,
+   "layoutProblems": []
+  },
+  {
+   "size": "375x667",
+   "level": 1,
+   "completed": true,
+   "playerWon": true,
+   "turns": 11,
+   "layoutProblems": []
+  },
+  {
+   "size": "375x667",
+   "level": 2,
+   "completed": true,
+   "playerWon": true,
+   "turns": 15,
+   "layoutProblems": []
+  },
+  {
+   "size": "375x667",
+   "level": 3,
+   "completed": true,
+   "playerWon": true,
+   "turns": 19,
+   "layoutProblems": []
+  }
+ ],
+ "layout": {
+  "390x844 full board": [],
+  "390x844 title": [],
+  "375x667 full board": [],
+  "375x667 title": []
+ },
+ "sameBookSameCard": true,
+ "deleteWorks": true,
+ "deck": {
+  "before": "20 / 20",
+  "after": "20 / 20",
+  "userInDeck": 5
+ },
+ "errors": []
+}
