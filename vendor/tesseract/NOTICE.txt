@@ -1,0 +1,3 @@
+Tesseract.js v5 (https://github.com/naptha/tesseract.js) - Apache License 2.0 (see *.LICENSE.txt)
+tesseract.js-core (https://github.com/naptha/tesseract.js-core) - Apache License 2.0 (core/LICENSE)
+Language data jpn / eng (tessdata best_int via @tesseract.js-data, from tesseract-ocr/tessdata_best) - Apache License 2.0
